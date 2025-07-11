@@ -1,0 +1,25 @@
+# Dependency directories
+node_modules/
+*/node_modules/
+
+# TypeScript compilation output
+dist/
+*/dist/
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Package lock files (optional, but common practice)
+package-lock.json
+*/package-lock.json

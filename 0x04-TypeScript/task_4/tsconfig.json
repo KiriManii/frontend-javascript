@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "outFile": "./dist/main.js",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "none",
+    "target": "es5",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "skipLibCheck": true
+  },
+  "files": [
+    "js/subjects/Teacher.ts",
+    "js/subjects/Subject.ts", 
+    "js/subjects/Cpp.ts",
+    "js/subjects/React.ts",
+    "js/subjects/Java.ts",
+    "js/main.ts"
+  ]
+}
